@@ -1,6 +1,8 @@
 # Nuxt Material design Icons
 
-[Official Guide](http://google.github.io/material-design-icons/)
+[![npm](https://img.shields.io/npm/v/nuxt-material-design-icons.svg)](https://www.npmjs.com/package/nuxt-material-design-icons) [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
+
+> [Official Guide](http://google.github.io/material-design-icons/)
 
 ## Install
 
@@ -10,7 +12,7 @@ npm i nuxt-material-design-icons
 yarn add nuxt-material-design-icons
 ```
 
-# Usage
+## Usage
 
 ```js
 // nuxt.config.js
@@ -18,3 +20,7 @@ yarn add nuxt-material-design-icons
     modules: ['nuxt-material-design-icons']
 }
 ```
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
