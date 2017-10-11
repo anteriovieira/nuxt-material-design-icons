@@ -1,8 +1,8 @@
-# Nuxt Material design Icons
+# Nuxt Material Design Icons
 
 [![npm](https://img.shields.io/npm/v/nuxt-material-design-icons.svg)](https://www.npmjs.com/package/nuxt-material-design-icons)
 
-> [Official Guide](http://google.github.io/material-design-icons/)
+> [Official Guide](http://google.github.io/material-design-icons/) or [Material Icons Library](https://material.io/icons/).
 
 ## Install
 
