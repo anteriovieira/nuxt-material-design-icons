@@ -1,12 +1,16 @@
 {
   "name": "nuxt-material-design-icons",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Nuxt Module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["nuxt", "material-design-icons", "module"],
+  "keywords": [
+    "nuxt",
+    "material-design-icons",
+    "module"
+  ],
   "author": {
     "name": "Antério Vieira",
     "email": "anteriovieira@gmail.com"
