@@ -1,4 +1,4 @@
-# Nuxt Material Design Icons
+# nuxt-material-design-icons
 
 [![npm](https://img.shields.io/npm/v/nuxt-material-design-icons.svg)](https://www.npmjs.com/package/nuxt-material-design-icons)
 
