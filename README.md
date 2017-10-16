@@ -20,6 +20,7 @@ yarn add nuxt-material-design-icons
     modules: ['nuxt-material-design-icons']
 }
 ```
+> Note [from the material-design-icons](https://github.com/google/material-design-icons#using-a-font-collection)
 
 ## License
 
